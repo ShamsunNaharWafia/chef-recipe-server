@@ -1,0 +1,326 @@
+[
+    {
+        "_id":"1",
+        "chef_picture": "https://img.koreatimes.co.kr/upload/newsV2/images/201912/cf84df8a7fd642c19de468b468213ef8.jpg/dims/resize/740/optimize",
+        "chef_name":"Chef Baek Jong-won",
+        "years_of_experience": 8,
+        "number_of_recipes": 15,
+        "likes": "15k",
+        "bio": "Baek Jong-won was born on September 4, 1966, in Yesan, Chungnam, South Korea. He was interested in food since he was a child. When he was an elementary school student, he was given some biscuits, but he had to fry them with butter and sprinkle them with sugar. He claims his father was also a picky eater, which made him more interested in cooking. When he was a student, his father would buy ten hamburgers at a time on his way home after a business trip. Baek Jong-won would try different recipes to make the hamburgers taste better. It was from then that he started to cook",
+        "recipe":
+        [
+        {"_id":"11",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production188/d1042/560f847f-c64a-4009-9422-1723c2739c36.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "recipe_name1": "Kimchi(kimchijeon)",
+        "ingredients": [
+            {"_id":"101","name":"porridges"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"Vegetables"},
+            {"_id":"104","name":"pumpkin"},
+            {"_id":"105","name":"cabbage"}
+        ],
+        "cooking_method1": "This signature Korean dish has been around for more than 2,000 years, dating back to the Shilla Dynasty. Kimchi consists of Korean cabbage, radish, pumpkin, onion, ginger, and scallion with chili powder, crushed garlic and salted seafood, which is then left to ferment. With more than 200 variations available in Seoul, this traditional cuisine is eaten on its own or with white rice, and added into porridges, soups, and rice cakes. Kimchi is also the basis for many derivative dishes such as kimchi stew (kimchi jjigae), kimchi pancake (kimchijeon), and kimchi fried rice.",
+        "rating1": 4.6
+        },
+       {
+        "_id":"12",
+        "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production12/d29/cc49915a-a856-4e94-9ba4-c7e89a652d2e.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Bibimbap",
+        "ingredients": [
+            {"_id":"101","name":"soy sauce"},
+            {"_id":"102","name":"chilli peppe"},
+            {"_id":"103","name":"raw egg"},
+            {"_id":"104","name":"beef or chicken,"},
+            {"_id":"105","name":"mixed vegetables"}
+        ],
+        "cooking_method1": "Another must-try during your visit to Seoul is bibimbap, a filling and nutritious dish that’s widely available in restaurants, food courts, and street markets. Depending on region and ingredients used, bibimbap can be served as a meat-based or vegetarian dish.The most common bibimbap consists of warm rice topped with mixed vegetables, beef or chicken, and raw egg, as well  for seasoning. Ideal for seafood lovers, there’s a variation of this Korean mixed rice dish called hoedeopbap, which replaces meat with raw seafood such as salmon, tuna, or octopus",
+        "rating1": 4.7
+       },
+       {"_id":"13",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production65/d1648/71fa270d-179e-47b5-be14-684ff9b90659.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "recipe_name1": "Red rice cakes (tteokbokki)",
+        "ingredients": [
+            {"_id":"101","name":"sugar"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"diced garlic"},
+            {"_id":"104","name":"fish cake"},
+            {"_id":"105","name":"cabbage"},
+            {"_id":"106","name":"red chili sauce"}
+        ],
+        "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
+        "rating1": 4.6
+        }
+    ]
+    },
+    {
+        "_id": "2",
+        "chef_picture": "https://fnbreport.ph/wp-content/uploads/2020/02/cho-hee-sok-best-female-chef.jpeg",
+        "chef_name": "Chef Cho Hee-sook",
+        "years_of_experience": 7,
+        "number_of_recipes": 12,
+        "likes": "13K",
+        "bio": "Chef-owner Cho Hee-sook of Hansikgonggan in Seoul, South Korea has been hailed as Asia’s Best Female Chef for 2020 by Asia’s 50 Best Restaurants. The award-giving body is an annual list of notable restaurants across Asia curated by over 300 industry influencers, experts, and leaders. ",
+        "recipe":
+        [
+        {"_id":"11",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production103/d73/f5bbab8e-f7fc-4c04-b50a-9900e952910c.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "recipe_name1": "Bulgogi",
+        "ingredients": [
+            {"_id":"101","name":"garlic"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"black pepper"},
+            {"_id":"104","name":"sesame oil"},
+            {"_id":"105","name":"cabbage"}
+        ],
+        "cooking_method1": "Bulgogi consists of thin slices of marinated beef sirloin that are cooked alongside sliced onions, green peppers, and garlic using a charcoal burner, resulting in a distinctive smoky flavour. Prior to grilling, the meat is marinated between 2 and 4 hours in a mixture of soy sauce, sesame oil, black pepper, garlic, onions, ginger, and sugar to enhance its flavour and tenderness.This dish is also served with a side of leafy vegetables like lettuce and spinach, which is used to wrap a slice of cooked meat, often times along with ssamjang (spicy paste) and kimchi.",
+        "rating1": 4.6
+        },
+       {
+        "_id":"12",
+        "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production127/d1648/2c7d2e80-846b-452f-938a-aad111e71c8b.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "recipe_name1": "Korean stew (jjigae)",
+        "ingredients": [
+            {"_id":"101","name":"soybean pastee"},
+            {"_id":"102","name":"ramyeon noodle"},
+            {"_id":"103","name":"sausages"},
+            {"_id":"104","name":"beef or chicken,"},
+            {"_id":"105","name":"mixed vegetables"}
+        ],
+        "cooking_method1": "There are many different varieties of jjigae in Seoul, but this Korean stew usually contains meat, seafood or vegetables in a broth seasoned with hot pepper paste (gochujang), fermented miso (gaenjang), soybean paste, or salted fermented shrimp (saeujeot). Usually served as a palate cleanser between heavier dishes, jjigae has a similar consistency to a western stew.One of the most popular jjigae dishes in Seoul is budae jjigae (army stew), which incorporates bacon, sausages, and Spam meat as well as ramyeon noodles and rice cakes mixed with gochujang paste for a spicy flavour.",
+        "rating1": 4.7
+       },
+       {"_id":"13",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production143/d643/67be50c8-3460-4544-b47a-e60f1d071340.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Jajangmyeon",
+        "ingredients": [
+            {"_id":"101","name":"wheat noodles"},
+            {"_id":"102","name":"diced pork"},
+            {"_id":"103","name":"diced garlic"},
+            {"_id":"104","name":"fish cake"},
+            {"_id":"105","name":"wheat noodles"},
+            {"_id":"106","name":"red chili sauce"}
+        ],
+        "cooking_method1": "A Korean-Chinese fusion dish, jajangmyeon uses thick handmade wheat noodles topped with raw cucumber slices and a mixture of salty black soybean paste, diced pork and vegetables. Priced from 5,000 won onwards, this hearty noodle dish is great for when you need a quick meal that doesn't break the wallet.It s also usually eaten by singles on Black Day, which takes places each year on April 14th. Those who do not receive gifts during Valentine’s Day wear black attire and gather to consume black-coloured food such as jajangmyeon.",
+        "rating1": 4.6
+        }
+    ]
+    },
+    {
+        "_id": "3",
+        "chef_picture": "https://dipoinduction.com/wp-content/uploads/2021/03/Mingoo-Kang-of-Mingles-in-Seoul-South-Korea-Dipo-Induction-1024x581.jpg",
+        "chef_name": "Chef Mingoo Kang",
+        "years_of_experience": 6,
+        "number_of_recipes": 15,
+        "likes": "20K",
+        "bio": "Mingoo Kang of Mingles in Seoul, South Korea, has been named the 2021 recipient of the Inedit Damm Chefs’ Choice Award. Voted for by his fellow chefs on the Asia’s 50 Best Restaurants list, the award acknowledges Chef Kang’s contributions to Asia’s culinary scene.",
+        "recipe":
+        [
+        {"_id":"11",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production125/d1185/1b45666a-9a1b-4770-aff7-cd230004670a.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Samgyeopsal",
+        "ingredients": [
+            {"_id":"101","name":"sesame leaf"},
+            {"_id":"102","name":"dipping sauce"},
+            {"_id":"103","name":"Vegetables"},
+            {"_id":"104","name":"green onions"},
+            {"_id":"105","name":"cabbage"}
+        ],
+        "cooking_method1": "Samgyeopsal is another staple Korean dish that requires little culinary skills, where chunky slices of pork belly are cooked on a grill at the diners’ table. It's then wrapped in lettuce or sesame leaf with dipping sauces and accompaniments such as button mushrooms, green chili peppers, green onions, raw onions and garlic, as well as kimchi. A popular dish among young working adults in Seoul, samgyeopsal is usually paired with a shot (or 2) of soju liquo",
+        "rating1": 4.6
+        },
+       {
+        "_id":"12",
+        "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production12/d29/cc49915a-a856-4e94-9ba4-c7e89a652d2e.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Bibimbap",
+        "ingredients": [
+            {"_id":"101","name":"soy sauce"},
+            {"_id":"102","name":"chilli peppe"},
+            {"_id":"103","name":"raw egg"},
+            {"_id":"104","name":"beef or chicken,"},
+            {"_id":"105","name":"mixed vegetables"}
+        ],
+        "cooking_method1": "Another must-try during your visit to Seoul is bibimbap, a filling and nutritious dish that’s widely available in restaurants, food courts, and street markets. Depending on region and ingredients used, bibimbap can be served as a meat-based or vegetarian dish.The most common bibimbap consists of warm rice topped with mixed vegetables, beef or chicken, and raw egg, as well as soy sauce and a dollop of chilli pepper paste for seasoning. Ideal for seafood lovers, there’s a variation of this Korean mixed rice dish called hoedeopbap, which replaces meat with raw seafood such as salmon, tuna, or octopus",
+        "rating1": 4.7
+       },
+       {"_id":"13",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production148/d1217/691c7201-0ede-467c-acaf-8bb2903356f1.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Korean fried chicken",
+        "ingredients": [
+            {"_id":"101","name":"vegetable oil"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"diced garlic"},
+            {"_id":"104","name":"chicken"},
+            {"_id":"105","name":"cabbage"},
+            {"_id":"106","name":"red chili sauce"}
+        ],
+        "cooking_method1": "Korean fried chicken takes on the quintessential American fast food with its own unique flair. Unlike its American counterparts, the chicken is coated with a sweet and spicy sauce (some restaurants add green pepper inside the batter for a spicier kick) before double frying it in vegetable oil. As a result, the meat is very juicy on the inside, while the lightly battered skin is crunchy with very little grease. It is a popular late-night snack that’s typically served with beer",
+        "rating1": 4.6
+    }
+    ]
+},
+    {
+        "_id": "4",
+        "chef_picture": "https://cdn.i-scmp.com/sites/default/files/styles/700x400/public/d8/images/canvas/2021/07/19/b70b0271-d477-4976-aa77-c2c997b3fe4c_605c3074.jpg?itok=0hYQyTA8&v=1626683476",
+        "chef_name": "Chef Hansik Goo",
+        "years_of_experience": 5,
+        "number_of_recipes": 11,
+        "likes": "12K",
+        "bio": "I dreamed about becoming a chef since I was a child watching my mother’s home cooking,” Lee shares. “I used to help her when she prepares dinner for our family and sometimes when she is not home I enjoyed making simple dishes for my sister on behalf of her.",
+        "recipe":
+        [
+        {"_id":"11",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production147/d1051/8bc6d80d-36d3-4a76-a495-1447aeb26c84.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Ginseng chicken soup (samgyetang)",
+        "ingredients": [
+            {"_id":"101","name":"dried jujubess"},
+            {"_id":"102","name":"glutinous rice"},
+            {"_id":"103","name":"Vegetables"},
+            {"_id":"104","name":"gingko nut"},
+            {"_id":"105","name":"cabbage"}
+        ],
+        "cooking_method1": "Locals believe that the body’s energy must be replenished during summer, so it is a common practice for them to consume a piping hot bowl of samgyetang (chicken ginseng soup) between the months of June and early September.This nourishing soup consists of a small spring chicken stuffed with chestnuts, garlic, dried jujubes, ginseng, glutinous rice, and gingko nuts. The ingredients are then slow-cooked until the meat is very tender and the thick broth permeates a slightly bitter yet fragrant taste.",
+        "rating1": 4.6
+        },
+       {
+        "_id":"12",
+        "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production12/d29/cc49915a-a856-4e94-9ba4-c7e89a652d2e.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Bibimbap",
+        "ingredients": [
+            {"_id":"101","name":"soy sauce"},
+            {"_id":"102","name":"chilli peppe"},
+            {"_id":"103","name":"raw egg"},
+            {"_id":"104","name":"beef or chicken,"},
+            {"_id":"105","name":"mixed vegetables"}
+        ],
+        "cooking_method1": "Another must-try during your visit to Seoul is bibimbap, a filling and nutritious dish that’s widely available in restaurants, food courts, and street markets. Depending on region and ingredients used, bibimbap can be served as a meat-based or vegetarian dish.The most common bibimbap consists of warm rice topped with mixed vegetables, beef or chicken, and raw egg, as well as soy sauce and a dollop of chilli pepper paste for seasoning. Ideal for seafood lovers, there’s a variation of this Korean mixed rice dish called hoedeopbap, which replaces meat with raw seafood such as salmon, tuna, or octopus",
+        "rating1": 4.7
+       },
+       {"_id":"13",
+            "recipe_Img1": "https://thumbs.dreamstime.com/b/korean-spicy-traditional-food-korean-spicy-traditional-food-123703211.jpg",
+        "recipe_name1": "Red rice cakes (tteokbokki)",
+        "ingredients": [
+            {"_id":"101","name":"sugar"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"diced garlic"},
+            {"_id":"104","name":"fish cake"},
+            {"_id":"105","name":"cabbage"},
+            {"_id":"106","name":"red chili sauce"}
+        ],
+        "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
+        "rating1": 4.6
+        }
+    ]
+    },
+    {
+        "_id": "5",
+        "chef_picture": "https://res.heraldm.com/content/image/2018/02/09/20180209000936_0.jpg",
+        "chef_name":"Chef Kang Sun Wo",
+        "years_of_experience": 7,
+        "number_of_recipes": 16,
+        "likes": "14K",
+        "bio": "I dreamed about becoming a chef since I was a child watching my mother’s home cooking,” Lee shares. “I used to help her when she prepares dinner for our family and sometimes when she is not home I enjoyed making simple dishes for my sister on behalf of her.",
+        "recipe":
+        [
+        {"_id":"11",
+            "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production188/d1042/560f847f-c64a-4009-9422-1723c2739c36.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "recipe_name1": "Kimchi(kimchijeon)",
+        "ingredients": [
+            {"_id":"101","name":"porridges"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"Vegetables"},
+            {"_id":"104","name":"pumpkin"},
+            {"_id":"105","name":"cabbage"}
+        ],
+        "cooking_method1": "This signature Korean dish has been around for more than 2,000 years, dating back to the Shilla Dynasty. Kimchi consists of Korean cabbage, radish, pumpkin, onion, ginger, and scallion with chili powder, crushed garlic and salted seafood, which is then left to ferment. With more than 200 variations available in Seoul, this traditional cuisine is eaten on its own or with white rice, and added into porridges, soups, and rice cakes. Kimchi is also the basis for many derivative dishes such as kimchi stew (kimchi jjigae), kimchi pancake (kimchijeon), and kimchi fried rice.",
+        "rating1": 4.6
+        },
+       {
+        "_id":"12",
+        "recipe_Img1": "https://thumbs.dreamstime.com/b/korean-food-heated-wok-sliced-ham-sausages-vermicelli-budae-jeongol-34108011.jpg",
+        "recipe_name1": "Bibimbap",
+        "ingredients": [
+            {"_id":"101","name":"soy sauce"},
+            {"_id":"102","name":"chilli peppe"},
+            {"_id":"103","name":"raw egg"},
+            {"_id":"104","name":"beef or chicken,"},
+            {"_id":"105","name":"mixed vegetables"}
+        ],
+        "cooking_method1": "Another must-try during your visit to Seoul is bibimbap, a filling and nutritious dish that’s widely available in restaurants, food courts, and street markets. Depending on region and ingredients used, bibimbap can be served as a meat-based or vegetarian dish.The most common bibimbap consists of warm rice topped with mixed vegetables, beef or chicken, and raw egg, as well as soy sauce and a dollop of chilli pepper paste for seasoning. Ideal for seafood lovers, there’s a variation of this Korean mixed rice dish called hoedeopbap, which replaces meat with raw seafood such as salmon, tuna, or octopus",
+        "rating1": 4.7
+       },
+       {"_id":"13",
+            "recipe_Img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEB_mtVbylogcVNralSpNJquAXhEgxG1XGZQ&usqp=CAU",
+        "recipe_name1": "Red rice cakes (tteokbokki)",
+        "ingredients": [
+            {"_id":"101","name":"sugar"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"diced garlic"},
+            {"_id":"104","name":"fish cake"},
+            {"_id":"105","name":"cabbage"},
+            {"_id":"106","name":"red chili sauce"}
+        ],
+        "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
+        "rating1": 4.6
+        }
+    ]
+    },
+    {
+        "_id": "6",
+        "chef_picture": "https://img.koreatimes.co.kr/upload/newsV2/images/202106/8d6e719c00f2419eb3c3b54b39721777.jpg/dims/resize/740/optimize",
+        "chef_name": "Chef Hansik Goo",
+        "years_of_experience": 6,
+        "number_of_recipes": 10,
+        "likes": "13K",
+        "bio": "Mr. Yan doesn’t have an enormous social media following or a list of viral recipes to his name. But his impact on the culinary sphere is immeasurable. In 1982, at age 33, Mr. Yan became one of the first people of Asian descent to host a cooking show in the United States. ",
+        "recipe_Img1": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
+        "recipe_name1": "Bangladeshi Chicken Biryani",
+        "ingredients1": "1)1 lb bone-in chicken pieces. 2) 2 cups basmati rice. 3)3 tbsp ghee. 4)1 large onion, sliced. 5)1 tbsp ginger paste. 6)1 tbsp garlic paste. 6) 2 tbsp biryani masala.7)2 green chilies, chopped",
+        "cooking_method1": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
+        "rating1": 4.8,
+        "recipe":
+        [
+        {"_id":"11",
+            "recipe_Img1": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/05/Japchae1.jpg",
+        "recipe_name1": "kidghmchijeon",
+        "ingredients": [
+            {"_id":"101","name":"porridges"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"Vegetables"},
+            {"_id":"104","name":"pumpkin"},
+            {"_id":"105","name":"cabbage"}
+        ],
+        "cooking_method1": "This signature Korean dish has been around for more than 2,000 years, dating back to the Shilla Dynasty. Kimchi consists of Korean cabbage, radish, pumpkin, onion, ginger, and scallion with chili powder, crushed garlic and salted seafood, which is then left to ferment. With more than 200 variations available in Seoul, this traditional cuisine is eaten on its own or with white rice, and added into porridges, soups, and rice cakes. Kimchi is also the basis for many derivative dishes such as kimchi stew (kimchi jjigae), kimchi pancake (kimchijeon), and kimchi fried rice.",
+        "rating1": 4.6
+        },
+       {
+        "_id":"12",
+        "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production12/d29/cc49915a-a856-4e94-9ba4-c7e89a652d2e.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Bibimbap",
+        "ingredients": [
+            {"_id":"101","name":"soy sauce"},
+            {"_id":"102","name":"chilli peppe"},
+            {"_id":"103","name":"raw egg"},
+            {"_id":"104","name":"beef or chicken,"},
+            {"_id":"105","name":"mixed vegetables"}
+        ],
+        "cooking_method1": "Another must-try during your visit to Seoul is bibimbap, a filling and nutritious dish that’s widely available in restaurants, food courts, and street markets. Depending on region and ingredients used, bibimbap can be served as a meat-based or vegetarian dish.The most common bibimbap consists of warm rice topped with mixed vegetables, beef or chicken, and raw egg, as well as soy sauce and a dollop of chilli pepper paste for seasoning. Ideal for seafood lovers, there’s a variation of this Korean mixed rice dish called hoedeopbap, which replaces meat with raw seafood such as salmon, tuna, or octopus",
+        "rating1": 4.7
+       },
+       {"_id":"13",
+            "recipe_Img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvsVt4PxBaebu9lyqucxbXWR4oASvo8uOd3Q&usqp=CAU",
+        "recipe_name1": "Red rice cakes (tteokbokki)",
+        "ingredients": [
+            {"_id":"101","name":"sugar"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"diced garlic"},
+            {"_id":"104","name":"fish cake"},
+            {"_id":"105","name":"cabbage"},
+            {"_id":"106","name":"red chili sauce"}
+        ],
+        "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
+        "rating1": 4.6
+        }
+    ]
+    }
+
+]
